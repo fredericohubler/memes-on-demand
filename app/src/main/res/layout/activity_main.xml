@@ -9,42 +9,7 @@
             tools:context=".MainActivity"
             android:columnCount="2"
             android:rowCount="2">
-        <ImageView
-                android:layout_height="wrap_content"
-                android:layout_width="wrap_content"
-                android:layout_rowWeight="1"
-                android:src="@drawable/seiseonibus_3x">
-        </ImageView>
-        <ImageView
-                android:layout_height="wrap_content"
-                android:layout_width="wrap_content"
-                android:layout_rowWeight="1"
-                android:src="@drawable/bixamuda_3x">
-        </ImageView>
-        <ImageView
-                android:layout_height="wrap_content"
-                android:layout_width="wrap_content"
-                android:layout_rowWeight="1"
-                android:src="@drawable/bonner_3x">
-        </ImageView>
-        <ImageView
-                android:layout_height="wrap_content"
-                android:layout_width="wrap_content"
-                android:layout_rowWeight="1"
-                android:src="@drawable/pepino_3x">
-        </ImageView>
-        <ImageView
-                android:layout_height="wrap_content"
-                android:layout_width="wrap_content"
-                android:layout_rowWeight="1"
-                android:src="@drawable/pepinodenovo_3x">
-        </ImageView>
-        <ImageView
-                android:layout_height="wrap_content"
-                android:layout_width="wrap_content"
-                android:layout_rowWeight="1"
-                android:src="@drawable/rafinha_3x">
-        </ImageView>
+
 
     </GridLayout>
 </layout>
